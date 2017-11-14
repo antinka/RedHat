@@ -1,0 +1,10 @@
+C:\Users\Antin\Desktop\EPAM\RedHat\RedHat\bin\Debug\netcoreapp1.1\RedHat.deps.json
+C:\Users\Antin\Desktop\EPAM\RedHat\RedHat\bin\Debug\netcoreapp1.1\RedHat.runtimeconfig.json
+C:\Users\Antin\Desktop\EPAM\RedHat\RedHat\bin\Debug\netcoreapp1.1\RedHat.runtimeconfig.dev.json
+C:\Users\Antin\Desktop\EPAM\RedHat\RedHat\bin\Debug\netcoreapp1.1\RedHat.dll
+C:\Users\Antin\Desktop\EPAM\RedHat\RedHat\bin\Debug\netcoreapp1.1\RedHat.pdb
+C:\Users\Antin\Desktop\EPAM\RedHat\RedHat\obj\Debug\netcoreapp1.1\RedHat.csprojResolveAssemblyReference.cache
+C:\Users\Antin\Desktop\EPAM\RedHat\RedHat\obj\Debug\netcoreapp1.1\RedHat.csproj.CoreCompileInputs.cache
+C:\Users\Antin\Desktop\EPAM\RedHat\RedHat\obj\Debug\netcoreapp1.1\RedHat.AssemblyInfo.cs
+C:\Users\Antin\Desktop\EPAM\RedHat\RedHat\obj\Debug\netcoreapp1.1\RedHat.dll
+C:\Users\Antin\Desktop\EPAM\RedHat\RedHat\obj\Debug\netcoreapp1.1\RedHat.pdb
